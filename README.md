@@ -224,4 +224,4 @@ Awesome Duplicate Photo Finder is the **full free version** with **all features 
 Take control of your photo library today! Download **Awesome Duplicate Photo Finder** now and start eliminating duplicates for free!
 
 ---
-**Last updated:** 2026-09-23 18:06:50 UTC
+**Last updated:** 2026-09-23 21:55:30 UTC
